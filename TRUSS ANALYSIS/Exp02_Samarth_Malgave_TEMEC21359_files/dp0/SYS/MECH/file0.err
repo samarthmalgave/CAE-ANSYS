@@ -1,0 +1,22 @@
+/COM,ANSYS RELEASE 2022 R1           BUILD 22.1      UP20211129       16:46:23
+
+ *** WARNING ***                         CP =       0.438   TIME= 16:46:24
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.438   TIME= 16:46:24
+ Material number 2 (used by element 69) should normally have at least    
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       0.500   TIME= 16:46:24
+ A boundary condition has been applied on 2 degrees of freedom of the    
+ node belonging to the FOLLW201 element number 74.                       
+
+ *** WARNING ***                         CP =       0.500   TIME= 16:46:24
+ A boundary condition has been applied on 2 degrees of freedom of the    
+ node belonging to the FOLLW201 element number 72.                       
+
+ *** WARNING ***                         CP =       0.500   TIME= 16:46:24
+ A boundary condition has been applied on 2 degrees of freedom of the    
+ node belonging to the FOLLW201 element number 73.                       
